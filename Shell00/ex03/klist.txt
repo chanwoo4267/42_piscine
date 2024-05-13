@@ -1,0 +1,5 @@
+Credentials cache: API:AACDFDA8-FC67-47AC-A760-2FCC4793CCD0
+        Principal: chanwopa@42SEOUL.KR
+
+  Issued                Expires               Principal
+Aug 22 11:57:31 2022  Aug 22 21:57:26 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
